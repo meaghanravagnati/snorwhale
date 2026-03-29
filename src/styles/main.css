@@ -25,3 +25,41 @@ header nav a{
     color: #ece7e7;
     padding-right: 40px;
 }
+
+.hero-page{
+    height: 100vh;
+    background-image: url(./src/assets/hero-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-page h1{
+    font-size: 85px;
+    color: #192a38;
+    padding: 20px;
+}
+
+.swim{
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 8px;
+    color: #0b1014;
+}
+
+.exclusive-groups{
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.hero-page a{
+    text-decoration: none;
+    background-color: #133047;
+    padding: 11px;
+    border-radius: 8px;
+    color: #ece7e7;
+    cursor: pointer;
+}
