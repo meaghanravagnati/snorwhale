@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #110f1e;
+}
+
+header img{
+    width: 8%;
+    height: 8%;
+}
+
+header nav{
+    padding-right: 30px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #ece7e7;
+    padding-right: 40px;
+}
