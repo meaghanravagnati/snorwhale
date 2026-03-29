@@ -9,6 +9,10 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: #110f1e;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
 
 header img{
