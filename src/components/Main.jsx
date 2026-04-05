@@ -32,6 +32,18 @@ const Main = () => {
                     <p>October - January</p>
                 </div>
             </section>
+
+            <div className="container-slider">
+                <div className="slider">
+                    <ul>
+                        <li><img src="./src/assets/killer-whales-2.jpg" alt="" /></li>
+                        <li><img src="./src/assets/killer-whales-3.jpg" alt="" /></li>
+                        <li><img src="./src/assets/killer-whales-5.jpg" alt="" /></li>
+                        <li><img src="./src/assets/whales-1.jpg" alt="" /></li>
+                        <li><img src="./src/assets/whales-3.jpg" alt="" /></li>
+                    </ul>
+                </div>
+            </div>
         
     </main>
     )
